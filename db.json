@@ -1,0 +1,31 @@
+{
+  "login": [
+    {
+      "email": "ammarach4474@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "resto": [
+    {
+      "id": 1,
+      "name": "pizzahut",
+      "address": "kamahan",
+      "ratting": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "name": "alpha",
+      "email": "alpha@gmail.com",
+      "ratting": "2",
+      "address": "xyz",
+      "id": 2
+    },
+    {
+      "name": "are",
+      "email": "arw@test.com",
+      "ratting": "3",
+      "address": "abe",
+      "id": 3
+    }
+  ]
+}
