@@ -10,7 +10,8 @@ Restaurent about admin's authority
  and ratting without user's permission.
 
 ## How to  run this project
-first install the npm and then start it
+first  run npm install 
+then  run npm start
 
 
 
